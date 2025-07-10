@@ -9,7 +9,7 @@ Estou aprendendo e praticando linguagens como HTML, CSS, JavaScript, PHP e C++, 
 Embora ainda iniciante, tenho muita vontade de crescer, construir projetos legais e colaborar com a comunidade tech.
 
 <p align="left">
-    <a href="https://github.com/JeanOalves?tab=repositoriessort=stargazers">
+    <a href="https://github.com/JeanOalves?tab=stars">
         <img alt="Total de estrelas" 
         title="Total de estrelas GitHub" 
         src="https://custom-icon-badges.demolab.com/github/stars/JeanOalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
