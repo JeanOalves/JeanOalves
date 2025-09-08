@@ -4,7 +4,7 @@
 
 Olá! Me chamo Jean e sou estudante em formação para me tornar um desenvolvedor FullStack. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC de Jacareí (SP), e moro em Guararema/SP - Brasil.
 
-Estou aprendendo e praticando linguagens como HTML, CSS, JavaScript, PHP e C++, com foco especial em desenvolvimento web e desenvolvimento de software. Em breve, também começarei a estudar Python, expandindo ainda mais meu leque de habilidades.
+Estou aprendendo e praticando linguagens como HTML, CSS, JavaScript, PHP e C++, com foco especial em desenvolvimento web e desenvolvimento de software. Em breve, também começarei a estudar Python e Java, expandindo ainda mais meu leque de habilidades.
 
 Embora ainda iniciante, tenho muita vontade de crescer, construir projetos legais e colaborar com a comunidade tech.
 
