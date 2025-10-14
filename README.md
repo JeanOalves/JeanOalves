@@ -2,13 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Jean e sou estudante em formação para me tornar um desenvolvedor FullStack. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC de Jacareí (SP), e moro em Guararema/SP - Brasil.
+Hello! My name is Jean, and I'm a student training to become a full-stack developer. I'm currently studying Systems Development at ETEC in Jacareí, São Paulo, and I live in Guararema, São Paulo, Brazil.
 
-💻 Tenho experiência em PHP, incluindo o desenvolvimento de um sistema de controle de estoque com banco de dados. </br>
-☕ Atualmente, estou focado na linguagem Java, com o objetivo de me tornar um desenvolvedor Full Stack Java. </br>
-🧠 Também possuo conhecimento básico em front-end com HTML e CSS, formação em JavaScript e experiência introdutória com C++. </br>
+💻 I have experience in PHP, including developing an inventory control system with a database. </br>
+☕ I'm currently focusing on the Java language, aiming to become a full-stack Java developer. </br>
+🧠 I also have basic front-end knowledge of HTML and CSS, a background in JavaScript, and introductory experience in C++. </br>
 
-Embora ainda iniciante, tenho muita vontade de crescer, construir projetos legais e colaborar com a comunidade tech.
+Although still a beginner, I'm eager to grow, build interesting projects, and collaborate with the technology community.
 
 <p align="left">
     <a href="https://github.com/JeanOalves?tab=stars">
@@ -39,7 +39,7 @@ Embora ainda iniciante, tenho muita vontade de crescer, construir projetos legai
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img 
@@ -94,7 +94,7 @@ Embora ainda iniciante, tenho muita vontade de crescer, construir projetos legai
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 <img 
