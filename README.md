@@ -29,7 +29,7 @@ Although still a beginner, I'm eager to grow, build interesting projects, and co
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/jean-carlos-b847b1247/">
+    <a href="https://www.linkedin.com/in/jeanoalves">
         <img alt="Linkedin" 
         title="Me siga no Linkedin" 
        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
