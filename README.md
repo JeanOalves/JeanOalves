@@ -18,7 +18,7 @@ Although still a beginner, I'm eager to grow, build interesting projects, and co
         />
     </a>
     <a href="https://github.com/JeanOalves">
-        <img alt="Me siga no GitHub" 
+        <img alt="Me siga no GitHub"
         title="Me siga no Github" 
         src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white"
         />
@@ -93,23 +93,3 @@ Although still a beginner, I'm eager to grow, build interesting projects, and co
 
 <br/>
 <br/>
-
-### 📊 Statistics
-
-<p>
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=JeanOalves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoalves&theme=tokyonight&layout=compact&custom_title=Tecnologias&lang_count=6" 
-/>
-</p>
