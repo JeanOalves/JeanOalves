@@ -6,7 +6,7 @@ Hello! My name is Jean, and I'm a student training to become a full-stack develo
 
 💻 I have experience in PHP, including developing an inventory control system with a database. </br>
 ☕ I'm currently focusing on the Java language, aiming to become a full-stack Java developer. </br>
-🧠 I also have basic front-end knowledge of HTML and CSS, a background in JavaScript, and introductory experience in C++. </br>
+🧠 I also have basic front-end knowledge of HTML and CSS, a background in JavaScript, and introductory experience in C#. </br>
 
 Although still a beginner, I'm eager to grow, build interesting projects, and collaborate with the technology community.
 
